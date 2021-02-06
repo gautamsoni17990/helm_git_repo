@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  mera-chart:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2021-02-07T00:35:48.594243024+05:30"
+    description: Repo Demo in Helm using chartmuseum version to 0.1.1 and appversion
+      is 1.16.1
+    digest: 16b67100c39c1ded7ef7faafda31844da07c9baa6a25482963f344725a2c1e3c
+    name: mera-chart
+    type: application
+    urls:
+    - mera-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-02-07T00:35:48.591223944+05:30"
